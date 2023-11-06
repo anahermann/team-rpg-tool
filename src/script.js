@@ -1,15 +1,5 @@
 var pessoas = [];
 var papeis = [
-{tipo:"Piloto", descricao:"Escreve código conforme direcionamento do navegador",
-  cor:"darkmagenta", 
-  quests:[
-	{texto: "Rodar todos os testes depois de uma mudança.", niveis:[0,1,2,3]},
-	{texto: "Usar novo atalho de teclado ou funcionalidade de ferramenta.", niveis:[0,1,2,3]},
-	{texto: "Fazer uma pergunta para esclarecer o que digitar.", niveis:[0,1]},
-	{texto: "Seguir instrução com a qual não concorda.", niveis:[1,2,3]},
-	{texto: "Ignorar uma instrução direta dos Participantes.", niveis:[2,3]}
-  ]
-}, 
 {tipo:"Navegador", descricao:"Fornece direcionamento para o time",
   cor:"orange",
    quests:[
@@ -20,6 +10,16 @@ var papeis = [
 	{texto: "Articular se algo precisa ser pesquisado.", niveis:[0]},
 	{texto: "Completar um ciclo de red-green-refactor.", niveis:[3]}
   ]}, 
+ {tipo:"Piloto", descricao:"Escreve código conforme direcionamento do navegador",
+  cor:"darkmagenta", 
+  quests:[
+	{texto: "Rodar todos os testes depois de uma mudança.", niveis:[0,1,2,3]},
+	{texto: "Usar novo atalho de teclado ou funcionalidade de ferramenta.", niveis:[0,1,2,3]},
+	{texto: "Fazer uma pergunta para esclarecer o que digitar.", niveis:[0,1]},
+	{texto: "Seguir instrução com a qual não concorda.", niveis:[1,2,3]},
+	{texto: "Ignorar uma instrução direta dos Participantes.", niveis:[2,3]}
+  ]
+}, 
 {tipo:"Participante", descricao:"Ajuda o time a superar o desafio",
   cor:"darkgreen", 
    quests:[
