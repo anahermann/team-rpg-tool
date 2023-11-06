@@ -11,18 +11,25 @@ Desenvolva um programa que retorna Fizz quando recebe um número divisível por 
 ### Antes da dinâmica
 
 Disponibilize um projeto na linguagem desejada contendo somente um teste falhando.
+
 Defina qual será a ferramenta para compartilhando do workspace.
 
 ### Durante a dinâmica
 
 Abra o arquivo src/index.html
+
 Preencha os nomes das pessoas que irão participar
+
 Relembre que desenvolver em time necessita de gentileza, consideração e respeito 
+
 Garanta que todos sabem qual o seu papel e tarefas na rodada inicial
+
 Explique o exercício que será feito (ex. fizzbuzz)
 
 Inicie um timer de 4 min
+
 Ao final do timer: conte os pontos em conjunto com o time. Faça uma mini-retro sobre o que pode ser melhorado (lembrando que a contribuição das pessoas não é restrita exclusivamente às tarefas listadas).
+
 Rotacione os papeis.
 
 ### Licença
